@@ -1,3 +1,3 @@
 # Demo
 
-Teh demo project for AgentGuard.
+The demo project.
